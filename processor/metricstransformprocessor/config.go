@@ -192,7 +192,7 @@ const (
 	toggleScalarDataType operationAction = "toggle_scalar_data_type"
 
 	// shortenFloatDataLength chages the data length if it's a float to chosen number of digits long
-	shortenFloatDataLength operationAction = "shroten_float_data_length"
+	shortenFloatDataLength operationAction = "shorten_float_data_length"
 
 	// scaleValue multiplies the value by a constant scalar
 	scaleValue operationAction = "experimental_scale_value"
